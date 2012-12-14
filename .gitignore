@@ -1,0 +1,14 @@
+*.iws
+*.war
+.class
+.classpath
+.DS_Store
+.project
+.settings
+/*.launch
+/*.tmproj
+target
+/out/**
+stacktrace.log
+test/reports
+target-eclipse
