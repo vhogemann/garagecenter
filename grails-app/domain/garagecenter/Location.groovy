@@ -2,7 +2,7 @@ package garagecenter
 
 class Location {
 
-	String streetAddress
+	String street
 	String country
 	String state
 	String city
